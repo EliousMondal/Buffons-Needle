@@ -1,3 +1,6 @@
+'''Author - MD. ELIOUS ALI MONDAL
+   Created - 28/5/2017'''
+
 #simulation of needle falling on a plane and estimating the value of pi
 from math import *
 import time
