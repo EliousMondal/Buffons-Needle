@@ -1,3 +1,6 @@
+'''Author - MD. ELIOUS ALI MONDAL
+   Created - 25/7/2017'''
+
 n = int(input('Enter the number of needles to be simulated : '))
 s = 0 #the number of needles falling in the space between the lines in plane
 import time
